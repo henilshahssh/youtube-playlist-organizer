@@ -18,7 +18,7 @@ To get the link to the playlist:
   - Click on "Shuffle" to randomize the order.
   - Add any video to the queue and then save the queue as a playlist.
 
-### Step 2: Create env file
+### Step 2: Create .env File
 - Once you have the key, create a `.env` file inside the same folder as `main.py`.
 - Add your API key to the `.env` file in the format:
 ```
