@@ -15,7 +15,7 @@ To get the link to the playlist:
 - The link should look like: `https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID`.
 - **For the default Watch Later playlist**: 
   - Go to your "Watch Later" playlist.
-  - Click on "Shuffle" to randomize the order.
+  - Click on "Shuffle".
   - Add any video to the queue and then save the queue as a playlist.
 
 ### Step 2: Create .env File
@@ -57,9 +57,9 @@ The generated YoutubePlaylistSortedByDuration.txt file will look like this:
 
 ```
 Title	 Link	 Duration
-Céline Dion - I Love You (Lyrics)	 https://www.youtube.com/watch?v=xaOtiz1K9-w	 0:05:34
-i saw her and she hit me like tadow | Masego, FKJ - Tadow (slowed) Lyrics	 https://www.youtube.com/watch?v=GtgSuCwZWt8	 0:05:32
-G-Eazy - Lady Killers II (Christoph Andersson Remix) [Lyrics]	 https://www.youtube.com/watch?v=ioqeiskHrco	 0:04:59
-J. Cole - She Knows (Lyrics)	 https://www.youtube.com/watch?v=E2L6NxLf3ic	 0:04:58
-Lola Young - Messy (Lyrics)	 https://www.youtube.com/watch?v=1hpkQ_ag470	 0:04:50
+Mingle Game Song “Round and Round” (Lyrics) | Squid Game	 https://www.youtube.com/watch?v=NOkjVIGxju0	 0:01:06
+"money money green green" Kaytoven - MONEY! (Lyrics) Good Loyal Thots Remix	 https://www.youtube.com/watch?v=BF5I3Sp4XTg	 0:01:21
+Paul Russell - Lil Boo Thang (Lyrics)	 https://www.youtube.com/watch?v=hGcfGSthys0	 0:01:55
+Lay Bankz - Ick (Lyrics) "he gave me the ick"	 https://www.youtube.com/watch?v=lJP88cHh-Lw	 0:02:00
+Ugly Andz x Prodbycpkshawn - Yo Bunny (Pop Like This Pt.2 Remix) Lyrics	 https://www.youtube.com/watch?v=fu7VKaagUDc	 0:02:02
 ```
