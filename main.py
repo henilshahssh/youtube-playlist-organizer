@@ -98,7 +98,7 @@ def getAllVideoDuration(videoIds: list[str], videoDetails: defaultdict[Any, list
     return videoDetails
 
 def sortVideoDetails(videoDetails: defaultdict[Any, list]):
-    return dict(sorted(videoDetails.items(), key=lambda item: item[1][1], reverse=True))
+    return dict(sorted(videoDetails.items(), key=lambda item: item[1][1]))
 
 def outputToFile(sortedVideoDetails: defaultdict[Any, list]):
     with open("YoutubePlaylistSortedByDuration.txt", "w", encoding='utf-8') as file:
