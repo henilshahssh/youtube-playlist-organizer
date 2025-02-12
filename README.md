@@ -46,7 +46,7 @@ After the script finishes executing, a new file called YoutubePlaylistSortedByDu
   - Video Link
   - Video Duration
 
-The list of videos will be sorted from **highest to lowest duration**.
+The list of videos will be sorted from **shortest to longest duration**.
 
 
 ### Step 6: Import the File to a Spreadsheet
