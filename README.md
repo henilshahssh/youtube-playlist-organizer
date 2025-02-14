@@ -32,7 +32,7 @@ To install the required dependencies, open a terminal/command prompt and navigat
 pip install -r requirements.txt
 ```
 
-### Step 4: Step 5: Run the Script
+### Step 4: Run the Script
 Once everything is set up, run the script with the following command:
 ```
 python main.py [playlist_link]
